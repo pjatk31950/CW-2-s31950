@@ -33,7 +33,7 @@ public class Ship
     {
         var index = Containers.FindIndex(c => c.SerialNumber == serialNumber);
         if (index == -1)
-            throw new Exception("Nie znaleziono kontenera do zastąpienia!");
+            throw new Exception("Nie znaleziono kontenera do zastąpienia");
         Containers[index] = newContainer;
     }
 

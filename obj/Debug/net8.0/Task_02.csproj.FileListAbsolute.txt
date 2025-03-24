@@ -1,0 +1,14 @@
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\bin\Debug\net8.0\Task_02.exe
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\bin\Debug\net8.0\Task_02.deps.json
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\bin\Debug\net8.0\Task_02.runtimeconfig.json
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\bin\Debug\net8.0\Task_02.dll
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\bin\Debug\net8.0\Task_02.pdb
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\Task_02.AssemblyInfoInputs.cache
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\Task_02.AssemblyInfo.cs
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\Task_02.dll
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\refint\Task_02.dll
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\Task_02.pdb
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\Task_02.genruntimeconfig.cache
+C:\Users\Pan Tadeusz\RiderProjects\APBD\Task_02\obj\Debug\net8.0\ref\Task_02.dll

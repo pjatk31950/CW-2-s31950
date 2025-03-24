@@ -7,6 +7,6 @@ public class CoolingContainer : Container, IHazardNotifier
 
     public void NotifyHazard(string message)
     {
-        Console.WriteLine($"[ALERT] {message} (Container: {SerialNumber})");
+        Console.WriteLine($"ALERT {message} , Container : {SerialNumber}");
     }
 }

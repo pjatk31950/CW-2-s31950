@@ -2,17 +2,17 @@
 
 public class LiquidContainer : Container
 {
-    public bool IsHazardous { get; }
-    
-    public LiquidContainer(double maxLoad, bool isHazardous, double height, double depth, double tareWeight) 
+    public bool IsDangerous { get; }  // zachowaj IsDangerous
+
+    public LiquidContainer(double maxLoad, bool isDangerous, double height, double depth, double tareWeight) 
         : base("L", maxLoad, 0, height, depth, tareWeight)
     {
-        IsHazardous = isHazardous;
+        IsDangerous = isDangerous;  // przypisanie do IsDangerous
     }
     
     public override void Load(double weight)
     {
-        double maxAllowed = IsHazardous ? MaxLoad * 0.5 : MaxLoad * 0.9;
+        double maxAllowed = IsDangerous ? MaxLoad * 0.5 : MaxLoad * 0.9;  // używaj IsDangerous
         if (CurrentLoad + weight > maxAllowed)
             throw new OverfillException($"Przeładowanie kontenera :  {SerialNumber}!");
         base.Load(weight);
